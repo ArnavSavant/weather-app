@@ -1,0 +1,12 @@
+{
+	"name": "base_node_js_project_template",
+	"version": "1.0.0",
+	"description": "This is a basic Template to get started in NODE JS projects.",
+	"main": "index.js",
+	"scripts": {
+		"dev": "npx nodemon src/index.js"
+	},
+	"author": "Arnav Savant",
+	"license": "ISC",
+	"dependencies": {}
+}
