@@ -37,7 +37,13 @@ npm install
 ```
 
 4. **Setup Environment Variables**:
-env details are in respective folders
+navigate to backend and create a .env file with following variables
+
+```
+PORT = <PORT NUMBER OF YOUR CHOICE>
+WEATHER_API_KEY = <open weather api key>
+ONE_CALL_API_KEY = <one call api key>
+```
 
 5. **Run the application**:
 ```
